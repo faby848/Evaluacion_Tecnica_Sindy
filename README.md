@@ -116,6 +116,7 @@ json:
 
 "Fondos insuficientes"
 Esto indica que no puedes retirar más dinero del que tienes disponible en la cuenta.
+![image](https://github.com/user-attachments/assets/1b5b9985-bd5d-4c03-a9bb-70a66188a582)
 
 
 ----------------------------------------------------------------------------------------------

@@ -20,7 +20,7 @@ Esto te devolverá un objeto con el número de cuenta generado y el saldo inicia
 
 Reemplaza {numeroCuenta} con el número de cuenta que obtuviste en la respuesta anterior. Por ejemplo, si tu número de cuenta es 123456789012, la URL sería:
 
-Ejemplo: https://localhost:5000/Cuenta/123456789012
+Ejemplo: https://localhost:44321/Cuenta/123456789012
 
 Haz clic en el botón Send.
 

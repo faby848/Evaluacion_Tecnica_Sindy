@@ -1,7 +1,7 @@
 # Evaluacion_Tecnica_Sindy
 
 # Instrucciones para probar la API en POSTMAN:
-1. Crear cuenta (GET): http://localhost:44321/Cuenta/Crear
+1. Crear cuenta (GET): https://localhost:44321/Cuenta/Crear
 -Haz clic en el botón Send.
 Respuesta esperada:
 

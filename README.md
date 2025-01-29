@@ -122,6 +122,7 @@ Código de estado HTTP: 200 OK
 Cuerpo de la respuesta:
 
 json
+
 {
   "SaldoFinal": 1300,
   "Transacciones": [

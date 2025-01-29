@@ -14,6 +14,7 @@ json
   "saldo": 1000
 }
 Esto te devolverá un objeto con el número de cuenta generado y el saldo inicial de 1000.
+![Image](https://github.com/user-attachments/assets/45c781de-0e3e-4559-9b56-3dceab9bc345)
 
 ----------------------------------------------------------------------------------------------
 2. Consultar saldo (GET): https://localhost:44321/Cuenta/{numeroCuenta}

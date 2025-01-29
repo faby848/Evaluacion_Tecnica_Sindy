@@ -126,7 +126,6 @@ json
 {
   "SaldoFinal": 1300,
   "Transacciones": [
-  
     {
       "Id": 1,
       "numeroCuenta": "123456789012",

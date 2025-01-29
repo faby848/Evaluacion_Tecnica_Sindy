@@ -1,4 +1,24 @@
 # Evaluacion_Tecnica_Sindy
+## Clonar el Repositorio
+1. Clonar el Proyecto: Abre tu terminal y navega a la carpeta de tu escritorio. Luego ejecuta el siguiente comando para clonar el repositorio:
+
+   ```bash
+   git clone https://github.com/usuario/nombre-del-repositorio.git
+
+2. Abrir el Proyecto en Visual Studio:
+   
+Inicia Visual Studio.
+Selecciona Archivo > Abrir > Proyecto/Solución.
+Navega a la carpeta donde clonaste el repositorio en tu escritorio y selecciona el archivo .sln (solución) del proyecto.
+
+4. Ejecutar el Proyecto:
+
+Una vez que el proyecto esté abierto en Visual Studio, selecciona la opción de ejecución:
+-HTTPS 
+-IIS Express dependiendo de cómo esté configurado el proyecto.
+Haz clic en el botón de Ejecutar (o presiona F5) para iniciar el proyecto.
+
+Una vez ejecutado el proyecto en el navegador, realiza las siguientes pruebas en postman para verificar el correcto funcionamiento del mismo.
 
 # Instrucciones para probar la API en POSTMAN:
 1. Crear cuenta (GET): https://localhost:44321/Cuenta/Crear

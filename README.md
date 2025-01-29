@@ -86,6 +86,7 @@ json
   "saldo": 1300
 }
 Esto actualizará el saldo de la cuenta a 1300.
+
 ![Image](https://github.com/user-attachments/assets/12726ca0-2054-4c58-9783-bc0acc33b093)
 
 -Probar el retiro con fondos insuficientes

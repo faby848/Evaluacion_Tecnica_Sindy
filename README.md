@@ -33,6 +33,7 @@ json
 
 "1000"
 Esto te devolverá el saldo actual de la cuenta.
+![Image](https://github.com/user-attachments/assets/6b85f0fd-a305-4f87-bfd6-7bacdd40ba86)
 
 ----------------------------------------------------------------------------------------------
 3. Depositar (POST): https://localhost:44321/Cuenta/Deposito?numeroCuenta={numeroCuenta}
@@ -58,6 +59,7 @@ json:
   "saldo": 1500
 }
 Esto actualizará el saldo de la cuenta a 1500.
+![Image](https://github.com/user-attachments/assets/429f763f-5a99-480f-ad09-56fc8afcbc1d)
 
 ----------------------------------------------------------------------------------------------
 4. Retirar (POST): https://localhost:44321/Cuenta/Retiro?numeroCuenta={numeroCuenta}
@@ -84,6 +86,7 @@ json
   "saldo": 1300
 }
 Esto actualizará el saldo de la cuenta a 1300.
+![Image](https://github.com/user-attachments/assets/12726ca0-2054-4c58-9783-bc0acc33b093)
 
 -Probar el retiro con fondos insuficientes
 Para intentar un retiro de una cantidad mayor al saldo disponible (por ejemplo, 2000), sigue estos pasos:
@@ -113,6 +116,7 @@ json:
 
 "Fondos insuficientes"
 Esto indica que no puedes retirar más dinero del que tienes disponible en la cuenta.
+
 
 ----------------------------------------------------------------------------------------------
 5. Resumen de transacciones (GET): https://localhost:44321/Cuenta/Resumen
@@ -144,5 +148,7 @@ json
   ]
 }
 Esto te dará el saldo final y un listado de las transacciones (depósito y retiro) realizadas.
+![image](https://github.com/user-attachments/assets/aced3009-07b6-43d0-b8c7-2cc407a85163)
+
 
 

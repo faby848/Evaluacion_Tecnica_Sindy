@@ -4,6 +4,9 @@
 
    ```bash
    git clone https://github.com/usuario/nombre-del-repositorio.git
+   
+Ejemplo:
+   gh repo clone faby848/Evaluacion_Tecnica_Sindy
 
 2. Abrir el Proyecto en Visual Studio:
    

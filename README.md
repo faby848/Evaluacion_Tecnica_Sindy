@@ -6,8 +6,7 @@
    git clone https://github.com/usuario/nombre-del-repositorio.git
    
 Ejemplo:
-   git clone https://github.com/faby848/Evaluacion_Tecnica_Sindy
-   gh repo clone faby848/Evaluacion_Tecnica_Sindy
+   git clone https://github.com/faby848/Evaluacion_Tecnica_Sindy.git
 
 2. Abrir el Proyecto en Visual Studio:
    
